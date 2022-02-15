@@ -1,0 +1,18 @@
+.svg-inline--fa {
+    float: right;
+    font-size: 30px;
+    color: black;
+    padding: 3px;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.svg-inline--fa:hover{
+    color: #FF8E9A;
+}
+
+.copy-rgt h6 {
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px 2px;
+}
