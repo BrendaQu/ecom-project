@@ -1,0 +1,8 @@
+.carousel-item{
+    max-height: 450px !important;
+}
+
+.carousel-inner {
+    width: 70% !important;
+    margin: auto;
+}

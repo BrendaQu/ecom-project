@@ -1,6 +1,6 @@
-.svg-inline--fa {
+footer .svg-inline--fa {
     float: right;
-    font-size: 30px;
+    font-size: 24px;
     color: black;
     padding: 3px;
     text-decoration: none;
@@ -15,4 +15,8 @@
     font-size: 16px;
     padding: 5px;
     margin: 5px 2px;
+}
+
+footer .card-body {
+    padding: 5px;
 }

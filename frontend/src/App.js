@@ -13,11 +13,11 @@ function App() {
   return (
     <div className="App">
       <NavBarDefault/>
-      <LoginForm />
-      {/* <CarouselLanding /> */}
-      {/* <RegisterForm /> */}
-      {/* <PaymentForm /> */}
-      {/* <ShippingForm /> */}
+      {/* <LoginForm /> */}
+      <CarouselLanding />
+      {/* <RegisterForm />
+      <PaymentForm />
+      <ShippingForm /> */}
       {/* <ProductList /> */}
       {/* <ProductCards /> */}
       <Footer />
